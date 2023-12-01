@@ -1,0 +1,370 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Test\\Tuya.PruebaTecnica.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Application\\Tuya.PruebaTecnica.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Application\\Tuya.PruebaTecnica.Application.csproj",
+        "projectName": "Tuya.PruebaTecnica.Application",
+        "projectPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Application\\Tuya.PruebaTecnica.Application.csproj",
+        "packagesPath": "C:\\Users\\wcardona\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wcardona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Domain\\Tuya.PruebaTecnica.Domain.csproj": {
+                "projectPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Domain\\Tuya.PruebaTecnica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Domain\\Tuya.PruebaTecnica.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Domain\\Tuya.PruebaTecnica.Domain.csproj",
+        "projectName": "Tuya.PruebaTecnica.Domain",
+        "projectPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Domain\\Tuya.PruebaTecnica.Domain.csproj",
+        "packagesPath": "C:\\Users\\wcardona\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wcardona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Infraestructure.Persistence\\Tuya.PruebaTecnica.Infraestructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Infraestructure.Persistence\\Tuya.PruebaTecnica.Infraestructure.Persistence.csproj",
+        "projectName": "Tuya.PruebaTecnica.Infraestructure.Persistence",
+        "projectPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Infraestructure.Persistence\\Tuya.PruebaTecnica.Infraestructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\wcardona\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Infraestructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wcardona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Application\\Tuya.PruebaTecnica.Application.csproj": {
+                "projectPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Application\\Tuya.PruebaTecnica.Application.csproj"
+              },
+              "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Domain\\Tuya.PruebaTecnica.Domain.csproj": {
+                "projectPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Domain\\Tuya.PruebaTecnica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Test\\Tuya.PruebaTecnica.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Test\\Tuya.PruebaTecnica.Test.csproj",
+        "projectName": "Tuya.PruebaTecnica.Test",
+        "projectPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Test\\Tuya.PruebaTecnica.Test.csproj",
+        "packagesPath": "C:\\Users\\wcardona\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wcardona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.WebApi\\Tuya.PruebaTecnica.WebApi.csproj": {
+                "projectPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.WebApi\\Tuya.PruebaTecnica.WebApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.WebApi\\Tuya.PruebaTecnica.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.WebApi\\Tuya.PruebaTecnica.WebApi.csproj",
+        "projectName": "Tuya.PruebaTecnica.WebApi",
+        "projectPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.WebApi\\Tuya.PruebaTecnica.WebApi.csproj",
+        "packagesPath": "C:\\Users\\wcardona\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wcardona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Application\\Tuya.PruebaTecnica.Application.csproj": {
+                "projectPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Application\\Tuya.PruebaTecnica.Application.csproj"
+              },
+              "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Infraestructure.Persistence\\Tuya.PruebaTecnica.Infraestructure.Persistence.csproj": {
+                "projectPath": "D:\\proyectos\\Tuya.PruebaTecnica\\Tuya.PruebaTecnica.Infraestructure.Persistence\\Tuya.PruebaTecnica.Infraestructure.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

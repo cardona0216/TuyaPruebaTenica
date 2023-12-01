@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lXwLbVOGEta1lZPr83NTYlfAlz+P5kTUpD9mkjVuuIk=",
+  "Source": "Tuya.PruebaTecnica.WebApi",
+  "BasePath": "_content/Tuya.PruebaTecnica.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

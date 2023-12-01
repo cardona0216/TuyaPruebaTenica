@@ -1,0 +1,11 @@
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Domain\bin\Debug\net6.0\Tuya.PruebaTecnica.Domain.deps.json
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Domain\bin\Debug\net6.0\Tuya.PruebaTecnica.Domain.dll
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Domain\bin\Debug\net6.0\Tuya.PruebaTecnica.Domain.pdb
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Domain\obj\Debug\net6.0\Tuya.PruebaTecnica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Domain\obj\Debug\net6.0\Tuya.PruebaTecnica.Domain.AssemblyInfoInputs.cache
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Domain\obj\Debug\net6.0\Tuya.PruebaTecnica.Domain.AssemblyInfo.cs
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Domain\obj\Debug\net6.0\Tuya.PruebaTecnica.Domain.csproj.CoreCompileInputs.cache
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Domain\obj\Debug\net6.0\Tuya.PruebaTecnica.Domain.dll
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Domain\obj\Debug\net6.0\refint\Tuya.PruebaTecnica.Domain.dll
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Domain\obj\Debug\net6.0\Tuya.PruebaTecnica.Domain.pdb
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Domain\obj\Debug\net6.0\ref\Tuya.PruebaTecnica.Domain.dll

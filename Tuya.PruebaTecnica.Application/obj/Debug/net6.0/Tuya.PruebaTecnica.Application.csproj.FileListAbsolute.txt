@@ -1,0 +1,15 @@
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\bin\Debug\net6.0\Tuya.PruebaTecnica.Application.deps.json
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\bin\Debug\net6.0\Tuya.PruebaTecnica.Application.dll
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\bin\Debug\net6.0\Tuya.PruebaTecnica.Application.pdb
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\obj\Debug\net6.0\Tuya.PruebaTecnica.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\obj\Debug\net6.0\Tuya.PruebaTecnica.Application.AssemblyInfoInputs.cache
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\obj\Debug\net6.0\Tuya.PruebaTecnica.Application.AssemblyInfo.cs
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\obj\Debug\net6.0\Tuya.PruebaTecnica.Application.csproj.CoreCompileInputs.cache
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\obj\Debug\net6.0\Tuya.PruebaTecnica.Application.dll
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\obj\Debug\net6.0\refint\Tuya.PruebaTecnica.Application.dll
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\obj\Debug\net6.0\Tuya.PruebaTecnica.Application.pdb
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\obj\Debug\net6.0\ref\Tuya.PruebaTecnica.Application.dll
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\bin\Debug\net6.0\Tuya.PruebaTecnica.Domain.dll
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\bin\Debug\net6.0\Tuya.PruebaTecnica.Domain.pdb
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\obj\Debug\net6.0\Tuya.PruebaTecnica.Application.csproj.AssemblyReference.cache
+D:\proyectos\Tuya.PruebaTecnica\Tuya.PruebaTecnica.Application\obj\Debug\net6.0\Tuya.PruebaTecnica.Application.csproj.CopyComplete
